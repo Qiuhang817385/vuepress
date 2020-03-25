@@ -1,6 +1,6 @@
 ---
 isTimeLine: true
-sidebar: false
+sidebar: true
 isComment: false
 ---
 
